@@ -1,6 +1,6 @@
 
 
-# README - Atividade 2: Temporizador de Um Disparo (One Shot)
+# Atividade 2: Temporizador de Um Disparo (One Shot)
 
 ## Descrição
 Este projeto implementa um sistema de temporização para acionar LEDs com um botão (pushbutton). O sistema usa `add_alarm_in_ms()` para ativar e desligar os LEDs em sequência após um clique no botão.
